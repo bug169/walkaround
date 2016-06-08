@@ -1,6 +1,9 @@
 {
+"Reset":"0", "NumberOfTasks":"6",
 "Task1":"Введи число 1","Result1":"1","Image1":"https://pp.vk.me/c633617/v633617621/29931/K9Qgd98HJ_o.jpg",
 "Task2":"Введи число 2","Result2":"2","Image2":"https://pp.vk.me/c615729/v615729863/137e1/lfqiR3_i_-8.jpg",
 "Task3":"Введи число 3","Result3":"3","Image3":"http://cs7002.vk.me/v7002429/1d7df/z-KANgdgC18.jpg",
 "Task4":"Введи число 4","Result4":"4","Image4":"http://cs7002.vk.me/v7002049/1d355/447CyP5UK2Y.jpg"
+"Task5":"Введи число 5","Result5":"5","Image5":"http://cs630228.vk.me/v630228831/2ba97/-1-cpwCu1t8.jpg",
+"Task6":"Введи число 6","Result6":"6","Image6":"http://cs624124.vk.me/v624124554/280a8/A9znrsHXRZc.jpg"
 }
